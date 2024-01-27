@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             <h3>${result.title}</h3>
             <p>${result.snippet}</p>
-            <a href="https://zh.wikipedia.org/?curid=${result.pageid}" target="_blank">查看此結果</a>
+            <a href="https://zh.wikipedia.org/?curid=${result.pageid}" target="_blank">前往該結果</a>
             `;
             resultsContainer.appendChild(resultElement);
         });
