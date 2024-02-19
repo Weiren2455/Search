@@ -131,3 +131,14 @@ h2 {
     position: absolute;
     top: 50px;
 }
+@media screen and (max-width:480px) {
+    .ai {
+        position: absolute;
+    }
+    .color {
+        position: absolute;
+    }
+    .news {
+        position: absolute;
+    }
+}
