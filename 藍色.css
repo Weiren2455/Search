@@ -31,7 +31,7 @@ h1{
     font-size: 42px;
     text-transform: uppercase;
     text-align: center;
-    margin-bottom: 16px;
+    margin-bottom: 55px;
 }
 
 header p{
@@ -116,4 +116,18 @@ header p{
 }
 h2 {
     height:80px;
+}
+.ai {
+    position: absolute;
+    left:80px;
+    top: 50px;
+}
+.color {
+    position: absolute;
+    right:80px;
+    top: 50px;
+}
+.news {
+    position: absolute;
+    top: 50px;
 }
