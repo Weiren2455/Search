@@ -117,28 +117,3 @@ header p{
 h2 {
     height:80px;
 }
-.ai {
-    position: absolute;
-    left:80px;
-    top: 50px;
-}
-.color {
-    position: absolute;
-    right:80px;
-    top: 50px;
-}
-.news {
-    position: absolute;
-    top: 50px;
-}
-@media screen and (max-width:480px) {
-    .ai {
-        position: absolute;
-    }
-    .color {
-        position: absolute;
-    }
-    .news {
-        position: absolute;
-    }
-}
